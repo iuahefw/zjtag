@@ -1,0 +1,6 @@
+COPYING text eol=lf
+Makefile text eol=lf
+README.md text eol=lf
+*.c text eol=lf
+*.h text eol=lf
+*.vcxproj text eol=crlf
